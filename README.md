@@ -1,5 +1,5 @@
-Name:K.Hemanth|
+Name:K.Hemanth
 
-Section:CSM-2|
+Section:CSM-2
 
-Roll No:26000928|
+Roll No:26000928
